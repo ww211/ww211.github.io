@@ -1793,7 +1793,116 @@ body {
   color: #c1c1c1 !important;
 }
 .cid-rpmVOlcdwI {
-  background-image: url("../../../assets/images/woodworks-pc-services-advertisement-4-30-19-edited-2000x1328.png");
+  background-image: url("../../../assets/images/woodworks-pc-services-advertisement-4-30-19-edited2-1000x664.png");
+}
+.cid-rpn7fg77ec {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/woodworks-pc-services-advertisement-4-30-19-2000x1328.jpg");
+}
+.cid-rpn7fg77ec .mbr-figure {
+  margin: 0 auto;
+  width: 100%;
+  display: -webkit-flex;
+  justify-content: center;
+  -webkit-justify-content: center;
+}
+.cid-rpn7fg77ec .mbr-figure img {
+  height: 100%;
+  margin: 0 auto;
+}
+@media (max-width: 991px) {
+  .cid-rpn7fg77ec .mbr-figure img {
+    width: 100% !important;
+  }
+}
+.cid-rpn7gA257q {
+  background-image: url("../../../assets/images/woodworks-pc-services-advertisement-4-30-19-2000x1328.jpg");
+}
+.cid-rpn7hOQryU {
+  padding-top: 75px;
+  padding-bottom: 75px;
+  background-image: url("../../../assets/images/woodworks-pc-services-advertisement-4-30-19-2000x1328.jpg");
+}
+.cid-rpn7hOQryU .mbr-media span {
+  font-size: 48px;
+  cursor: pointer;
+  background-color: #ffffff;
+  border-radius: 50%;
+  width: 6rem;
+  height: 6rem;
+  line-height: 6rem;
+  position: relative;
+  display: inline-block;
+  transition: all 0.25s;
+  color: #353535;
+}
+.cid-rpn7hOQryU .mbr-media span.mbri-play:before {
+  position: absolute;
+  left: 50%;
+  -webkit-transform: translateX(-35%);
+  -moz-transform: translateX(-35%);
+  -ms-transform: translateX(-35%);
+  -o-transform: translateX(-35%);
+  transform: translateX(-35%);
+}
+.cid-rpn7hOQryU .modalWindow {
+  position: fixed;
+  z-index: 5000;
+  left: 0;
+  top: 0;
+  background-color: rgba(61, 61, 61, 0.65);
+  width: 100%;
+  height: 100%;
+}
+.cid-rpn7hOQryU .modalWindow .modalWindow-container {
+  display: table-cell;
+  vertical-align: middle;
+}
+.cid-rpn7hOQryU .modalWindow .modalWindow-video {
+  height: calc(44.9943757vw);
+  width: 80vw;
+  margin: 0 auto;
+}
+.cid-rpn7hOQryU a.close {
+  position: absolute;
+  right: 4vw;
+  top: 4vh;
+  color: #ffffff;
+  z-index: 5000000;
+  font-size: 37px;
+  background: #000;
+  padding: 20px;
+  border-radius: 50%;
+}
+.cid-rpn7hOQryU a.close:hover {
+  color: #ffffff;
+}
+.cid-rpn7la47sE {
+  background-image: url("../../../assets/images/woodworks-pc-services-advertisement-4-30-19-2000x1328.jpg");
+}
+.cid-rpn7la47sE .icons-media-container {
+  display: flex;
+  -webkit-justify-content: center;
+  justify-content: center;
+  -webkit-flex-direction: row;
+  flex-direction: row;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+  padding-top: 4rem;
+}
+.cid-rpn7la47sE .icons-media-container .mbr-iconfont {
+  font-size: 96px;
+  color: #ffffff;
+}
+.cid-rpn7la47sE .icons-media-container .icon-block {
+  padding-bottom: 1rem;
+}
+.cid-rpn7la47sE .mbr-text {
+  color: #ffffff;
+}
+.cid-rpn7la47sE .card {
+  padding-bottom: 1.5rem;
 }
 .cid-rpmW5cIA9w {
   padding-top: 90px;
